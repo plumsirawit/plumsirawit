@@ -1,4 +1,8 @@
-### Hi there 👋
+### Disclaimer 😆
+
+By forking [the PancakeSwap exchange interface](https://github.com/plumsirawit/pancake-swap-interface-v1), this does not infer I'm economic-right. Neither am I into supporting excessive capitalism, any act against justice, nor any illegal business. I'm still hoping to advocate for socialism (i.e. freedom, empathy and unity). In fact, the fork is done for educational/recreational purposes only. I do things on my own freedom without any immoral/injustice action.
+
+Keep in mind that we all live for our benefits, and "giving" is one of the benefits we could look for.
 
 <!--
 **plumsirawit/plumsirawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
