@@ -1,8 +1,8 @@
-(Updated Nov 4, 2021)
+(Updated Oct 3, 2022)
 
 ### Hello, world! 😆
 
-I'm Sirawit "Plum" Pongnakintr (a.k.a Plurm). I was a full-time software engineer, currently studying in bachelor degree (not sure about my double major yet: maybe Math/CS or Math/Physics) at École Polytechnique, France.
+I'm Sirawit "Plum" Pongnakintr (a.k.a Plurm). I was a full-time software engineer, but now studying for the Bachelor of Science (Double Major in Mathematics and Computer Science) at École Polytechnique, France.
 
 ![](https://about.plummmm.com/dist/assets/drawing_teal.svg)
 
@@ -14,19 +14,21 @@ I don't support immoral capitalism, any act against justice, nor any illegal bus
 
 📫 sirawit@pongnakin.com (More informal and simpler methods available once I know you!)
 
+Also, my Codeforces handle is `Plurm`. For competitive programming related stuffs, you can contact me via Codeforces messaging system.
+
 ### Anything else?
 
-🔭 I spend most of my time on studying and doing hobbies. Currently, I have no plan to work but I'm looking for opportunities to do researches. Job opportunities might be appreciated but please understand that I cannot commit a lot of time on working. Because for me, studying is the most important thing to focus right now.
+🔭 I spend most of my time on studying and doing hobbies. Currently, I have no plan to do full-time work and currently I'm looking for opportunities to do researches. Job opportunities (part-time) are appreciated but please understand that I cannot commit a lot of time on working because I need to focus on studying also.
 
-🌱 I’m currently learning about: introduction to analysis, linear algebra, abstract algebra, polynomial rings, fast fourier transform, computer architecture, classical mechanics, basics of quantum mechanics, analytic number theory, elliptic curves.
+🌱 I’m currently learning about: analytic number theory, algebraic number theory, abstract algebra, computational algebra, topology, automated proof systems.
 
-✨ I want to learn more about: topology, group theory, monstrous moonshine, string theory, algebraic number theory, Dirichlet's theorem on arithmetic progression, complex analysis, quantum gravity, constraint logic programming, distributed and concurrent computing, convex optimization, approximation algorithms, cryptography, Lagrangian and Hamiltonian mechanics.
+✨ I want to learn more about: geometry (non-Euclidean), constraint logic programming, distributed and concurrent computing, convex optimization, approximation algorithms, cryptography, Lagrangian and Hamiltonian mechanics, quantum mechanics, string theory, philosophy of science and humanity.
 
 🤔 Unfortunately, I'm unable to teach right now because I'm already a TA for olympiad camps in Thailand. However, feel free to contact me if there are questions. I'll help if possible.
 
-👯 I’m looking to collaborate on ... haha, solving the collatz conjecture, of course. Also, feel free to contact me if you need some help (in case there are projects that you want me to collaborate I'll look whether I have time to do it or not).
+👯 Feel free to contact me if you need some help (in case there are projects that you want me to collaborate I'll look whether I have time to do it or not), but don't spam, scam, or phish, please. I'm quite available, but might be late on replies. 
 
-Feel free to contact me (but don't spam, scam, or phish, please). I'm quite available, but might be late on replies. 
+Oh, and yes! I'm currently trying the Hacktoberfest! (not sure if it will be ok, anyway let me try 😄)
 
 That's pretty much it! Good luck and have a nice day!
 
