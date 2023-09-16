@@ -1,10 +1,10 @@
-(Updated Sep 10, 2023)
+(Updated Sep 16, 2023)
 
 ### Hello, world! 😆
 
 I'm Sirawit "Plum" Pongnakintr (a.k.a Plurm). I'm a student of Bachelor of Science (Double Major in Mathematics and Computer Science) at École Polytechnique, France. Currently I'm a third-year (final year) student.
 
-![](https://about.plummmm.com/dist/assets/drawing_teal.svg)
+![](https://2021.about.plummmm.com/dist/assets/drawing_teal.svg)
 
 ### Disclaimer 🤔
 
