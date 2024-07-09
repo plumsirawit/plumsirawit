@@ -1,5 +1,14 @@
-(Updated Sep 16, 2023)
+(Updated Jul 9, 2024)
 
+Let's get to the point. I want to be a mathematician. I love problem solving. See my [website](https://sirawit.pongnakin.com) for more info.
+
+I can do basic math. I'm studying intermediate math. I can do upper-intermediate programming.
+
+Most people reading this text would already know what I can and what I cannot do. I feel like I should talk less, so here it is.
+
+📫 Contact: sirawit@pongnakin.com
+
+<!--
 ### Hello, world! 😆
 
 I'm Sirawit "Plum" Pongnakintr (a.k.a Plurm). I'm a student of Bachelor of Science (Double Major in Mathematics and Computer Science) at École Polytechnique, France. Currently I'm a third-year (final year) student.
@@ -35,7 +44,7 @@ Also, my Codeforces handle is `Plurm`. For competitive programming related stuff
 🔫 I tried to play the role "chaotic good", and I'm still holding that "chaotic good" persona (though it is likely to change). There's a thin line between an antihero and a villain. I'm trying not to cross that line.
 
 That's pretty much it! Good luck and have a nice day!
-
+-->
 <!--
 **plumsirawit/plumsirawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
