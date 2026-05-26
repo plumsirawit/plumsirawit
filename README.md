@@ -1,12 +1,11 @@
-(Updated Jul 9, 2024)
+(Updated May 26, 2026)
 
-Let's get to the point. I want to be a mathematician. I love problem solving. See my [website](https://sirawit.pongnakin.com) for more info.
+Hiiiiiiiiiiiii yayayayayay!!! 🤩
+See my [website](https://sirawit.space) for more info.
 
 I can do basic math. I'm studying intermediate math. I can do upper-intermediate programming.
 
-Most people reading this text would already know what I can and what I cannot do. I feel like I should talk less, so here it is.
-
-📫 Contact: sirawit@pongnakin.com
+📫 Contact: work@sirawit.space
 
 <!--
 ### Hello, world! 😆
